@@ -1,0 +1,19 @@
+{
+  "name": "node-with-couchdb",
+  "version": "1.0.0",
+  "description": "do example by node and couchdb",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "node",
+    "couchdb",
+    "example"
+  ],
+  "author": "vanpipy",
+  "license": "MIT",
+  "helper": {
+    "exampleUrl": "http://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.bz2"
+  }
+}
